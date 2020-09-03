@@ -21,6 +21,6 @@ I pride myself on having an artistic eye despite being “just” a developer an
 [![kibotu's github stats](https://github-readme-stats.vercel.app/api?username=kibotu&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](http://portfolio.kibotu.net/sets/apps/)
 [![Top Langs](https://raw.githubusercontent.com/kibotu/kibotu/master/languages_2020.svg)](http://portfolio.kibotu.net/sets/apps/)
 
-[![BG](http://www.kibotu.net/cv/about-background-header.jpg)](http://portfolio.kibotu.net/sets/apps/)
+
 
 

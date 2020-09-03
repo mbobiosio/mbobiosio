@@ -4,7 +4,7 @@
 ## Hi there 👋, 
 I'm Mbuodile Obiosio, I'm a software engineer 👨‍💻 who is very passionate about mobile technologies and open source. Working to be an efficient Engineer. Passionate about product, UI/UX design. I have over 4 years of experience and I have dedicated a greater part of my energy mostly in startups.
 
-I pride myself on having an artistic eye despite being “just” a developer and I love opportunities where I can utilize both the artistic and the technical aspects of my brain. I'm excited about food, sports, music and wildlife and I believe a combination of these great units help me cordinate my thinking processes more efficiently.
+I pride myself on having an artistic eye despite being “just” a developer and I love opportunities where I can utilize both the artistic and the technical aspects of my brain. I'm excited about food, sports, music and wildlife and I believe a combination of these great units help me cordinate my thinking processes more efficiently. You're welcome to connect.
 
 🏄‍♂️. 
 
@@ -16,10 +16,5 @@ I pride myself on having an artistic eye despite being “just” a developer an
 - 🧐 Interests: Machine Learning; UI/UX; Photography
 
 ---
-
 [![mbobiosio's github stats](https://github-readme-stats.vercel.app/api?username=mbobiosio&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](https://github.com/mbobiosio/)
 [![Top Langs](https://raw.githubusercontent.com/mbobiosio/mbobiosio/master/languages_2020.svg)](https://github.com/mbobiosio/)
-
-
-
-

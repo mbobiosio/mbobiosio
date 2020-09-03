@@ -32,5 +32,5 @@ I pride myself on having an artistic eye despite being “just” a developer an
 
 - [Become a sponsor](https://github.com/sponsors/kibotu) -->
 
-<img src="https://komarev.com/ghpvc/?username=kibotu&color=blue&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=mbobiosio&color=blue&style=flat-square" align="right" />
 

@@ -27,10 +27,4 @@ I pride myself on having an artistic eye despite being “just” a developer an
 
 [![BG](http://www.kibotu.net/cv/about-background-header.jpg)](http://portfolio.kibotu.net/sets/apps/)
 
-<!--
-#### Top Sponsors
-
-- [Become a sponsor](https://github.com/sponsors/kibotu) -->
-
-<img src="https://komarev.com/ghpvc/?username=mbobiosio&color=blue&style=flat-square" align="right" />
 

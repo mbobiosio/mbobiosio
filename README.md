@@ -16,3 +16,4 @@ I pride myself on having an artistic eye despite being “just” a developer an
 - 🧐 Interests: Machine Learning; UI/UX; Photography
 
 ---
+<img src="https://github-readme-stats.vercel.app/api?username=mbobiosio&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">

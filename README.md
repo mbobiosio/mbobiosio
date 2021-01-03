@@ -34,5 +34,5 @@ I pride myself on having an artistic eye despite being “just” a developer an
 
 ---
 [![mbobiosio's github stats](https://github-readme-stats.vercel.app/api?username=mbobiosio&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](https://github.com/mbobiosio/)
-<a href="https://github.com/mbobiosio"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbobiosio&theme=dark&layout=compact" />
-</a>
+<!--<a href="https://github.com/mbobiosio"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbobiosio&theme=dark&layout=compact" />
+</a>-->

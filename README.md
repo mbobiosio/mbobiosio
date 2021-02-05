@@ -26,7 +26,7 @@ I pride myself on having an artistic eye despite being “just” a developer an
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning Flutter
+- 🌱 Growing on Flutter
 - 💬 Ask me about: Tech, Music, Wildlife
 - 😄 Pronouns: He/Him
 -  ⚡ Languages: Java, Kotlin, Python3, PHP, JavaScript, MySQL

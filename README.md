@@ -4,9 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mbobiosio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mb-obiosio/)](https://www.linkedin.com/in/mb-obiosio/) [![Gmail Badge](https://img.shields.io/badge/-cazewonder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cazewonder@gmail.com)](mailto:cazewonder@gmail.com)
 
 ## About Me:
-
+<!-- 
 <img src="https://komarev.com/ghpvc/?username=mbobiosio&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
-
+ -->
 I'm Mbuodile Obiosio, I'm a Software Engineer 👨‍💻 who is very passionate about mobile technologies. Working to be an efficient Engineer.
 
 I pride myself on having an artistic eye despite being “just” a developer and I love opportunities where I can utilize both the artistic and the technical aspects of my brain. I'm excited about food, sports, music and wildlife and I believe a combination of these great units help me cordinate my thinking processes more efficiently. You're welcome to connect.
@@ -50,5 +50,5 @@ These are the tools and languages that I have worked with and have experience ab
 
 <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=mbobiosio&count_private=true&include_all_commits=true&theme=tokyonight" alt="Mbuodile's stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbobiosio&layout=compact&theme=tokyonight" alt="Mbuodile's top language stats" />
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbobiosio&layout=compact&theme=tokyonight" alt="Mbuodile's top language stats" /> -->
 </p>

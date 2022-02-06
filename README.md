@@ -1,38 +1,54 @@
-# Hi, I'm Mbuodile Obiosio.
+# Hi there 👋 I'm Mbuodile Obiosio.
 
 [![Twitter Badge](https://img.shields.io/badge/-@cazewonder-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cazewonder)](https://twitter.com/cazewonder) 
 [![Linkedin Badge](https://img.shields.io/badge/-mbobiosio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mb-obiosio/)](https://www.linkedin.com/in/mb-obiosio/) [![Gmail Badge](https://img.shields.io/badge/-cazewonder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cazewonder@gmail.com)](mailto:cazewonder@gmail.com)
 
-## Hi there 👋, 
-I'm Mbuodile Obiosio, I'm a software engineer 👨‍💻 who is very passionate about mobile technologies and open source. Working to be an efficient Engineer. Passionate about product, UI/UX design. I have over 4 years of experience and I have dedicated a greater part of my energy mostly in startups.
+## About Me:
+
+<img src="https://komarev.com/ghpvc/?username=GouravKhunger&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
+
+I'm Mbuodile Obiosio, I'm a Software Engineer 👨‍💻 who is very passionate about mobile technologies. Working to be an efficient Engineer.
 
 I pride myself on having an artistic eye despite being “just” a developer and I love opportunities where I can utilize both the artistic and the technical aspects of my brain. I'm excited about food, sports, music and wildlife and I believe a combination of these great units help me cordinate my thinking processes more efficiently. You're welcome to connect.
 
-### Tech Stack
+- 🔭 I’m currently working on Android Apps
+- 🌱 Growing
+- 💬 Ask me about: Tech, Music, Wildlife
+- 😄 Pronouns: He/Him
+- 🧐 Interests: Machine Learning; UI/UX; Photography
+
+
+### Tools/Languages
+These are the tools and languages that I have worked with and have experience about using them.
 
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
 
 <br/>
 
-🏄‍♂️. 
+## Profiles:
 
-- 🔭 I’m currently working on Android Apps
-- 🌱 Growing on Flutter
-- 💬 Ask me about: Tech, Music, Wildlife
-- 😄 Pronouns: He/Him
--  ⚡ Languages: Java, Kotlin, Python3, PHP, JavaScript, MySQL
-- 🧐 Interests: Machine Learning; UI/UX; Photography
+- StackOverflow: [Mbuodile Obiosio](https://stackoverflow.com/users/2810726/mbuodile-obiosio)
+- LinkedIn: [Mbuodile Obiosio](https://linkedin.com/in/mb-obiosio)
+- Twitter: [@cazewonder](https://twitter.com/cazewonder)
 
 ---
-[![mbobiosio's github stats](https://github-readme-stats.vercel.app/api?username=mbobiosio&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](https://github.com/mbobiosio/)
-<!--<a href="https://github.com/mbobiosio"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbobiosio&theme=dark&layout=compact" />
-</a>-->
+## Github Stats:
+
+<p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mbobiosio&count_private=true&include_all_commits=true&theme=tokyonight" alt="Mbuodile's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbobiosio&layout=compact&theme=tokyonight" alt="Mbuodile's top language stats" />
+</p>

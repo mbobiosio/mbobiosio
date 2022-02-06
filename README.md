@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Mbuodile Obiosio.
 
-[![Twitter Badge](https://img.shields.io/badge/-@cazewonder-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/cazewonder)](https://twitter.com/cazewonder) 
-[![Linkedin Badge](https://img.shields.io/badge/-mbobiosio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mb-obiosio/)](https://www.linkedin.com/in/mb-obiosio/) [![Gmail Badge](https://img.shields.io/badge/-cazewonder@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cazewonder@gmail.com)](mailto:cazewonder@gmail.com)
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mbobiosio&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="Gourav's stats" />
+</p>
 
 ## About Me:
 <!-- 

@@ -5,7 +5,7 @@
 
 ## About Me:
 
-<img src="https://komarev.com/ghpvc/?username=GouravKhunger&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=mbobiosio&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
 I'm Mbuodile Obiosio, I'm a Software Engineer 👨‍💻 who is very passionate about mobile technologies. Working to be an efficient Engineer.
 

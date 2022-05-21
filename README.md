@@ -41,7 +41,7 @@ These are the tools and languages that I have worked with and have experience ab
 <br/>
 
 ## Profiles:
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mbobiosio.visitor-badge)
+
 - StackOverflow: [Mbuodile Obiosio](https://stackoverflow.com/users/2810726/mbuodile-obiosio)
 - LinkedIn: [Mbuodile Obiosio](https://linkedin.com/in/mb-obiosio)
 - Twitter: [@cazewonder](https://twitter.com/cazewonder)

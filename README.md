@@ -59,9 +59,3 @@ These are the tools and languages that I have worked with and have experience ab
 - Twitter: [@cazewonder](https://twitter.com/cazewonder)
 
 ---
-## Github Stats:
-
-<p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mbobiosio&count_private=true&include_all_commits=true&theme=tokyonight" alt="Mbuodile's stats" />
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbobiosio&layout=compact&theme=tokyonight" alt="Mbuodile's top language stats" /> -->
-</p>

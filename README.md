@@ -1,13 +1,7 @@
 # Hi there 👋 I'm Mbuodile Obiosio.
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mbobiosio&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="Gourav's stats" />
-</p>
-
 ## About Me:
-<!-- 
-<img src="https://komarev.com/ghpvc/?username=mbobiosio&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
- -->
+
 I'm Mbuodile Obiosio, I'm a Software Engineer 👨‍💻 who is very passionate about mobile technologies. Working to be an efficient Engineer.
 
 I pride myself on having an artistic eye despite being “just” a developer and I love opportunities where I can utilize both the artistic and the technical aspects of my brain. I'm excited about food, sports, music and wildlife and I believe a combination of these great units help me cordinate my thinking processes more efficiently. You're welcome to connect.
@@ -39,6 +33,24 @@ These are the tools and languages that I have worked with and have experience ab
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
 
 <br/>
+
+---
+## Github Stats
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mbobiosio&show_icons=true&theme=buefy&count_private=true&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mbobiosio&theme=buefy&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbobiosio&hide=html,cmake,css,scss,assembly&theme=buefy&langs_count=7&layout=compact&hide_border=true" width = 400>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mbobiosio&hide_border=true&theme=buefy" width = 420 >
+ 
+</p>
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=mbobiosio&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
+
+
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mbobiosio&label=Profile%20views&color=0e75b6&style=for-the-badge&color=green" alt="jxareas" />
+</p>
 
 ## Profiles:
 

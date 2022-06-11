@@ -46,7 +46,7 @@ These are the tools and languages that I have worked with and have experience ab
 
  <img src="https://activity-graph.herokuapp.com/graph?username=mbobiosio&theme=github&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
-![Mbuodile Obiosio](https://hit.yhype.me/github/profile?user_id=31294354)
+![](https://hit.yhype.me/github/profile?user_id=31294354)
 
 ## Profiles:
 

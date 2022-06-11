@@ -49,7 +49,8 @@ These are the tools and languages that I have worked with and have experience ab
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mbobiosio&label=Profile%20views&color=0e75b6&style=for-the-badge&color=green" alt="jxareas" />
+  <img src="https://komarev.com/ghpvc/?username=mbobiosio&label=Profile%20views&color=0e75b6&style=for-the-badge&color=green" alt="mbobiosio" />
+  ![Mbuodile Obiosio](https://hit.yhype.me/github/profile?user_id=31294354)
 </p>
 
 ## Profiles:

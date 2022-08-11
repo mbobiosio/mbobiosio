@@ -40,7 +40,7 @@ These are the tools and languages that I have worked with and have experience ab
   <img src = "https://github-readme-stats.vercel.app/api?username=mbobiosio&show_icons=true&theme=aura&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=mbobiosio&theme=chartreuse-dark&hide_border=true" width = 400>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbobiosio&hide=javascript,blade,php,html,cmake,css,scss,assembly&theme=chartreuse-dark&langs_count=7&layout=compact&hide_border=true" width = 400>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mbobiosio&hide_border=true&theme=aura&hide=ini,prolog,env,text,properties,gitignore files,blade template" width = 400 >
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mbobiosio&hide_border=true&theme=aura&hide=ini,prolog,env,text,properties,gitignore-files,blade-template" width = 400 >
  
 </p>
 

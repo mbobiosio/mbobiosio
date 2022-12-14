@@ -6,7 +6,7 @@ I'm Mbuodile Obiosio, I'm a Software Engineer 👨‍💻 who is very passionate
 
 I pride myself on having an artistic eye despite being “just” a developer and I love opportunities where I can utilize both the artistic and the technical aspects of my brain. I'm excited about food, sports, music and wildlife and I believe a combination of these great units help me cordinate my thinking processes more efficiently. You're welcome to connect.
 
-- 🔭 I’m currently working on Android Apps
+- 🔭 I do things. Maybe what works and not.
 - 🌱 Growing
 - 💬 Ask me about: Tech, Music, Wildlife
 - 😄 Pronouns: He/Him
@@ -40,10 +40,7 @@ These are the tools and languages that I have worked with and have experience ab
   <img src = "https://github-readme-stats.vercel.app/api?username=mbobiosio&show_icons=true&theme=aura&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=mbobiosio&theme=chartreuse-dark&hide_border=true" width = 400>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbobiosio&hide=javascript,blade,php,html,cmake,css,scss,assembly&theme=chartreuse-dark&langs_count=7&layout=compact&hide_border=true" width = 400>
- 
 </p>
-
- <img src="https://activity-graph.herokuapp.com/graph?username=mbobiosio&theme=chartreuse-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 ![](https://hit.yhype.me/github/profile?user_id=31294354)
 

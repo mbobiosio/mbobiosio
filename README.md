@@ -2,7 +2,7 @@
 
 ## About Me:
 
-I'm Mbuodile Obiosio, I'm a Software Engineer 👨‍💻 who is very passionate about mobile technologies. Working to be an efficient Engineer.
+I'm Mbuodile Obiosio, I'm a Software Developer 👨‍💻 who is very passionate about mobile technologies. Working to be an efficient Engineer.
 
 I pride myself on having an artistic eye despite being “just” a developer and I love opportunities where I can utilize both the artistic and the technical aspects of my brain. I'm excited about food, sports, music and wildlife and I believe a combination of these great units help me cordinate my thinking processes more efficiently. You're welcome to connect.
 

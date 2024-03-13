@@ -13,24 +13,23 @@ I pride myself on having an artistic eye despite being “just” a developer an
 - 🧐 Interests: Machine Learning; UI/UX; Photography
 
 
-### Tools/Languages
-These are the tools and languages that I have worked with and have experience about using them.
-
+### Tech Stack
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-  ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Gradle](https://img.shields.io/badge/-Gradle-05122A?style=flat&logo=gradle)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)
+  ![MYSQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 
 <br/>
 
